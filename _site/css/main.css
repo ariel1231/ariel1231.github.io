@@ -52,10 +52,12 @@ header {
   padding: 0px 15px;
   text-align: center;
   margin: 50px 0 0;
-  height: 20vh;
+  height: 15vh;
   display: flex;
   justify-content: center;
-  align-items: center; }
+  align-items: center;
+  font-size: 80%;
+  font-family: fantasy; }
 
 main {
   padding: 0 15px;
@@ -306,3 +308,16 @@ p.about_me_content {
   font-family: "Verdana";
   margin-right: 15px;
   font-size: 90%; }
+
+.talk p, time {
+  font-family: "Verdana";
+  font-size: 80%;
+  margin-top: -1px; }
+
+.publications {
+  font-family: "Verdana";
+  font-size: normal; }
+
+.experiences {
+  font-family: "Georgia";
+  font-size: normal; }

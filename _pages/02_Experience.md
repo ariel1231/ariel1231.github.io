@@ -4,6 +4,15 @@ title: Experience
 permalink: /experience/
 ---
 
-Contact content goes here.
+<h2> {{ page.title }} </h2>
+<ul class = "talk">
+<li><b>Fidelity Investments</b>
+<span style = "float:right;font-size:80%;margin-right:10%;">November 2018 - present</span>
+</li>
+<p>Dalian,China
+<span style = "float:right;margin-right:10%;">Supervisor: Zhaopeng Liu</span>
+</p>
 
-My e-mail is [arielliu2016@gmail.com](mailto:email@something.com).
+
+<li><b>Pattern Analysis Laboratory</b></li>
+</ul>

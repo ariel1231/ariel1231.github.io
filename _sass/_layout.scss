@@ -41,15 +41,17 @@ header {
 	padding: 0px 15px;
 	text-align: center;
 	margin: 50px 0 0;
-	height: 20vh;
+	height: 15vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	font-size: 80%;
+	font-family:fantasy;
 }
 main {
 	padding: 0 15px;
 	max-width: $content-width;
-	margin-left: 22%
+	margin-left: 22%;
 }
 time {
 	color: #898989;
