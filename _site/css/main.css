@@ -114,7 +114,7 @@ footer {
 
 .author-bio {
   position: fixed;
-  margin-top: 10%;
+  margin-top: 1%;
   margin-left: 25px;
   width: 25%; }
 
@@ -291,3 +291,18 @@ img.bio-photo {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+figure#about_photo {
+  float: right;
+  margin-right: 10%;
+  margin-top: 0;
+  text-align: center; }
+
+.sub_title {
+  font-family: "Georgia";
+  font-size: 150%; }
+
+p.about_me_content {
+  font-family: "Verdana";
+  margin-right: 15px;
+  font-size: 90%; }
