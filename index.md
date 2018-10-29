@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
 ---
 
-<h2> {{ page.title }} </h2>
+<h2> About Me </h2>
 <figure id = "about_photo" >
 
-<img src="{{ site.url }}/images/Ariel_photo01.jpg" alt="Xiaoyu(Ariel) Liu's bio photo" width="250" height="250">
-<figcaption> 2016.Yellowstone National Park  </figcaption>
+<img src="{{ site.url }}/images/github_image.jpg" alt="Xiaoyu(Ariel) Liu's bio photo" width="250" height="200">
+<figcaption> An auto-generated photo </figcaption>
 </figure>
 
 <Span class = "sub_title"> Education </Span><br>
