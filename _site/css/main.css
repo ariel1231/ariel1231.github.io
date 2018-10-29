@@ -319,5 +319,8 @@ p.about_me_content {
   font-size: normal; }
 
 .experiences {
-  font-family: "Georgia";
-  font-size: normal; }
+  font-family: "Georgia"; }
+
+.secondary_list {
+  margin-left: -5%;
+  margin-right: 5%; }
