@@ -6,7 +6,7 @@ layout: page
 <figure id = "about_photo" >
 
 <img src="{{ site.url }}/images/Ariel_photo01.jpg" alt="Xiaoyu(Ariel) Liu's bio photo" width="250" height="200">
-<figcaption> An auto-generated photo </figcaption>
+<figcaption> 2016.Yellowstone National Park</figcaption>
 </figure>
 
 <Span class = "sub_title"> Education </Span><br>

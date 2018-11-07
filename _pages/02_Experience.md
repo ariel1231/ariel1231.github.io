@@ -12,7 +12,8 @@ permalink: /experience/
 <span style = "float:right;font-size:80%;margin-right:10%;">Supervisor: Zhaopeng Liu</span>
 </p>
 <ul class = "secondary_list">
-      <li>Designed a model based on lightGBM and Generative Adversarial Networks(GANs) to detect potential network breakdowns and help troubleshooting. (final accuracy around 85%)</li>
+      <li>Developed a text generation model for simulation of transaction information and improved the readability using reinforcement learning techniques and altered the objective function to reduce text repetition.</li>
+      <li>Designed a model based on xgboost and Generative Adversarial Networks(GANs) to detect potential network breakdowns and help troubleshooting. (final accuracy around 85%)</li>
       <li>Extended the usage of SN-GANs (spectral normalization GANs)to network tra c data synthesis and compared the model behaviour between Wasserstein distance and KL divergence as similarity measurement.</li>
 
 </ul>
@@ -27,8 +28,24 @@ permalink: /experience/
 </p>
 <ul class = "secondary_list">
       <li>Successfully identified 20 genes out of 12023 of them which have discriminatory power for early diagnosis of the infection of upper respiratory virus(over 90% balanced success rate/accuracy).</li>
-      <li>Implemented Sparse Support Vector Machine in C++ to speed up the training phase and used interior point algorithm for better performance.</li>
+      <li>Implemented Sparse Support Vector Machine in C++ to speed up the training.</li>
       <li>Tackled the severe sample imbalance problem using SMOTE and GANs.</li>
+</ul>
+</li>
+
+<br>
+<br>
+
+<li>
+<b>Teaching Assistant in CSU Computer Science Department</b>
+<span style = "float:right;font-size:80%;margin-right:10%;"> August 2017 - Jan 2018</span>
+<p>Fort Collins,Colorado,United States
+<span style = "float:right;font-size:80%;margin-right:10%;">Supervisor: Prof. Yashwant K. Malaiya</span>
+</p>
+<ul class = "secondary_list">
+      <li>Graded programming assignments.</li>
+      <li>Answered questions during office hours.</li>
+      <li>Led help sessions(both video and live).</li>
 </ul>
 </li>
 
