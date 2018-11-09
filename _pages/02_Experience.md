@@ -28,8 +28,9 @@ permalink: /experience/
 </p>
 <ul class = "secondary_list">
       <li>Successfully identified 20 genes out of 12023 of them which have discriminatory power for early diagnosis of the infection of upper respiratory virus(over 90% balanced success rate/accuracy).</li>
-      <li>Implemented Sparse Support Vector Machine in C++ to speed up the training.</li>
       <li>Tackled the severe sample imbalance problem using SMOTE and GANs.</li>
+      <li>Helped in the development of a python based machine learning packages
+      named CALCOM for calculate and compare.
 </ul>
 </li>
 
